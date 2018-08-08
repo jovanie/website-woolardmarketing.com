@@ -637,3 +637,148 @@
 #=#=#=# Syncrun started 2018-08-07T12:28:29
 #=#=#=#=# Propagation starts 2018-08-07T12:28:30 (last step: 1217 msec, total: 1217 msec)
 #=#=#=# Syncrun finished 2018-08-07T12:28:31 (last step: 804 msec, total: 2022 msec)
+#=#=#=# Syncrun started 2018-08-08T12:08:44
+#=#=#=#=# Propagation starts 2018-08-08T12:08:44 (last step: 222 msec, total: 222 msec)
+17:08:44||Font/Lato|INST_NEW|Up|1533748084||442|00001193ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:44||Font/Abel|INST_NEW|Up|1533748084||136|00001191ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:44||Font/helveticaneue (1)|INST_NEW|Up|1533748084||544|00001192ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:44||Font/Lato.zip|INST_NEW|Up|1533748084|02e61096d0a630955ce4645c26c64f1a|500044|00001196ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:44||Font/Abel.zip|INST_NEW|Up|1533748084|b434bd4c67ee68b56bdadb6a839ec2d5|18253|00001201ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:44||Logo/WM-Logo-Negative-Gray.psd|INST_SYNC|Up|1533748084|5e15b78aa009888c7ff2f1d8bfec2410|773548|00001060ocmqmup3hfk7|4||204|1335983|1531344209|db12423034e3168b77be5bbab193537f|00001060ocmqmup3hfk7|INST_NONE|
+17:08:46||Font/Lato/Lato-Black.ttf|INST_NEW|Up|1533748084|3777ca21a65aa0eb00ad0cec20ea4d4e|114588|00001204ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:47||Font/Abel/OFL.txt|INST_NEW|Up|1533748084|ea7ba44ff8ae3af502883429028384d1|4418|00001208ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:47||Font/Lato/Lato-BlackItalic.ttf|INST_NEW|Up|1533748084|1c54496089db59828fc15b9cf5d65a49|111616|00001214ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:47||Font/Abel/Abel-Regular.ttf|INST_NEW|Up|1533748084|5099b62761a4cfc92ad4c3e2932dcbcd|35220|00001211ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:47||Font/Lato/Lato-BoldItalic.ttf|INST_NEW|Up|1533748084|f77fb74c6660504f96f051625006ea72|120312|00001217ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:47||Font/Lato/Lato-Bold.ttf|INST_NEW|Up|1533748084|403b5b1b5680bade6cf19e1f64e06d61|121788|00001220ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:52||Font/Lato/Lato-Hairline.ttf|INST_NEW|Up|1533748084|87261d0c2cb2626d120248beef5b085e|115316|00001223ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:52||Font/Lato/Lato-Light.ttf|INST_NEW|Up|1533748084|33538ec63916ccf6abd62ecda2d9301c|122524|00001226ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:56||Font/Lato/OFL.txt|INST_NEW|Up|1533748084|0b7a7f36c2c7d948ac4f5766b3c241a0|4407|00001232ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:52||Font/Lato/Lato-Italic.ttf|INST_NEW|Up|1533748084|eb14c264fa7988ff56a672acbce724e1|118352|00001228ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:52||Font/Lato/Lato-HairlineItalic.ttf|INST_NEW|Up|1533748084|d634a3c0c0a62f1331f2175a366ce2da|91460|00001229ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:56||Font/Lato/Lato-LightItalic.ttf|INST_NEW|Up|1533748084|1e5b6b88a62b480acc95d3b4c60d7660|91600|00001235ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:56||Font/Lato/Lato-Regular.ttf|INST_NEW|Up|1533748084|bf45a1a5456a2e736f231efe4152d55e|120196|00001238ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:58||Font/helveticaneue (1)/Helvetica Neu Bold.ttf|INST_NEW|Up|1533748084|2a4b67b2b11a238f8721612784c222db|39520|00001245ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:58||Font/helveticaneue (1)/HelveticaNeue BlackCond.ttf|INST_NEW|Up|1533748084|33d89751302da7c2511c578bb9acc7d3|38016|00001243ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:59||Font/helveticaneue (1)/HelveticaNeue.ttf|INST_NEW|Up|1533748084|65402f03541235fc76ce5423c8cd15db|41180|00001250ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:58||Font/helveticaneue (1)/HelveticaNeue Medium.ttf|INST_NEW|Up|1533748084|fdbdc13a28cbfa01b8e1579a7c2dc45a|39656|00001251ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:01||Font/helveticaneue (1)/HelveticaNeueBd.ttf|INST_NEW|Up|1533748084|9952bf0adb4e4aa79d0fb5beae60de8a|39520|00001257ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:01||Font/helveticaneue (1)/HelveticaNeueIt.ttf|INST_NEW|Up|1533748084|469c0e4851838caaf9c881459b8377f4|43148|00001259ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:00||Font/helveticaneue (1)/HelveticaNeue Thin.ttf|INST_NEW|Up|1533748084|f4fe4937a68eac3300e27d9bd7a3398e|40144|00001254ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:08:58||Font/helveticaneue (1)/HelveticaNeue Light.ttf|INST_NEW|Up|1533748084|a2670bba21e832f97e27217ec934965c|40104|00001247ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:01||Font/helveticaneue (1)/HelveticaNeueLt.ttf|INST_NEW|Up|1533748084|3c90e43028bcd2f9a3170f2471ef1d40|40104|00001264ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:01||Font/helveticaneue (1)/HelveticaNeueHv.ttf|INST_NEW|Up|1533748084|cdbacb8b7f1cf9475bc73ce1cddff4da|39568|00001262ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:02||Font/helveticaneue (1)/freefontsdownload.txt|INST_NEW|Up|1533748084|6bafa2811abcb602d75feaee7aba5580|111|00001266ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:02||Font/helveticaneue (1)/www.freefontsdownload.net.url|INST_NEW|Up|1533748084|0ed617978a059bc9bab6f2f0b9bb3693|89|00001272ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:02||Font/helveticaneue (1)/helveticaneue.png|INST_NEW|Up|1533748084|629de32357ecb9bcad76af87359e49c4|1264|00001269ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:02||Logo/WM-Logo-Negative-gray.png|INST_SYNC|Up|1533748084|8db94262c569839d69e842248b000904|18500|00001052ocmqmup3hfk7|4||204|109082|1531344137|c9521dc0a502ca19e17008c60baf0ae0|00001052ocmqmup3hfk7|INST_NONE|
+17:09:01||Font/helveticaneue (1)/HelveticaNeueMed.ttf|INST_NEW|Up|1533748084|49933e292b86dd70abdd7091507554b1|39656|00001275ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+17:09:05||Prototype/Prototype-woolardmarketing.com.xd|INST_SYNC|Up|1533748084|4700293adb08b6d001dca504217cf325|9456750|00000501ocmqmup3hfk7|4||204|405452|1531170949|37bc4fe62998d8d87b8f51512f533a47|00000501ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T12:09:24 (last step: 39783 msec, total: 40005 msec)
+#=#=#=# Syncrun started 2018-08-08T12:10:07
+#=#=#=#=# Propagation starts 2018-08-08T12:10:09 (last step: 1619 msec, total: 1619 msec)
+#=#=#=# Syncrun finished 2018-08-08T12:10:09 (last step: 17 msec, total: 1637 msec)
+#=#=#=# Syncrun started 2018-08-08T13:08:38
+#=#=#=#=# Propagation starts 2018-08-08T13:08:39 (last step: 1081 msec, total: 1081 msec)
+18:08:39||Prototype/Prototype-woolardmarketing.com.pdf|INST_SYNC|Up|1533751716|a982db47e5dfc9a0bf2cd6d81e412c6a|524851|00000790ocmqmup3hfk7|4||204|1903878|1533237222|86f31fe0dc37c865393f17deb7856125|00000790ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T13:08:40 (last step: 1427 msec, total: 2508 msec)
+#=#=#=# Syncrun started 2018-08-08T13:09:10
+#=#=#=#=# Propagation starts 2018-08-08T13:09:11 (last step: 431 msec, total: 431 msec)
+||Prototype/Prototype-woolardmarketing.com.pdf|INST_SYNC|Up|1533751750|a982db47e5dfc9a0bf2cd6d81e412c6a|13436315|00000790ocmqmup3hfk7|3|Local file changed during sync.|0|524851|1533751716|a982db47e5dfc9a0bf2cd6d81e412c6a|00000790ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T13:09:11 (last step: 90 msec, total: 521 msec)
+#=#=#=# Syncrun started 2018-08-08T13:09:13
+#=#=#=#=# Propagation starts 2018-08-08T13:09:14 (last step: 716 msec, total: 716 msec)
+||Prototype/Prototype-woolardmarketing.com.pdf|INST_SYNC|Up|1533751754|a982db47e5dfc9a0bf2cd6d81e412c6a|50619251|00000790ocmqmup3hfk7|3|Local file changed during sync.|0|524851|1533751716|a982db47e5dfc9a0bf2cd6d81e412c6a|00000790ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T13:09:14 (last step: 195 msec, total: 911 msec)
+#=#=#=# Syncrun started 2018-08-08T13:09:16
+#=#=#=#=# Propagation starts 2018-08-08T13:09:16 (last step: 397 msec, total: 397 msec)
+18:11:23||Prototype/Prototype-woolardmarketing.com.pdf|INST_SYNC|Up|1533751754|ff3075bfbe07e315ce55de2f3162554a|66104909|00000790ocmqmup3hfk7|4||204|524851|1533751716|a982db47e5dfc9a0bf2cd6d81e412c6a|00000790ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T13:12:36 (last step: 199907 msec, total: 200304 msec)
+#=#=#=# Syncrun started 2018-08-08T13:13:32
+#=#=#=#=# Propagation starts 2018-08-08T13:13:32 (last step: 541 msec, total: 541 msec)
+#=#=#=# Syncrun finished 2018-08-08T13:13:32 (last step: 12 msec, total: 554 msec)
+#=#=#=# Syncrun started 2018-08-08T14:09:15
+#=#=#=#=# Propagation starts 2018-08-08T14:09:15 (last step: 405 msec, total: 405 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:09:15 (last step: 13 msec, total: 419 msec)
+#=#=#=# Syncrun started 2018-08-08T14:11:41
+#=#=#=#=# Propagation starts 2018-08-08T14:11:43 (last step: 2348 msec, total: 2348 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:11:43 (last step: 14 msec, total: 2363 msec)
+#=#=#=# Syncrun started 2018-08-08T14:13:01
+#=#=#=#=# Propagation starts 2018-08-08T14:13:02 (last step: 312 msec, total: 312 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:13:02 (last step: 13 msec, total: 325 msec)
+#=#=#=# Syncrun started 2018-08-08T14:15:06
+#=#=#=#=# Propagation starts 2018-08-08T14:15:06 (last step: 326 msec, total: 326 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:15:06 (last step: 13 msec, total: 340 msec)
+#=#=#=# Syncrun started 2018-08-08T14:17:13
+#=#=#=#=# Propagation starts 2018-08-08T14:17:14 (last step: 322 msec, total: 322 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:17:14 (last step: 13 msec, total: 336 msec)
+#=#=#=# Syncrun started 2018-08-08T14:19:08
+#=#=#=#=# Propagation starts 2018-08-08T14:19:09 (last step: 309 msec, total: 309 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:19:09 (last step: 11 msec, total: 321 msec)
+#=#=#=# Syncrun started 2018-08-08T14:23:05
+#=#=#=#=# Propagation starts 2018-08-08T14:23:06 (last step: 310 msec, total: 310 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:23:06 (last step: 14 msec, total: 324 msec)
+#=#=#=# Syncrun started 2018-08-08T14:29:08
+#=#=#=#=# Propagation starts 2018-08-08T14:29:09 (last step: 303 msec, total: 303 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:29:09 (last step: 12 msec, total: 316 msec)
+#=#=#=# Syncrun started 2018-08-08T14:30:23
+#=#=#=# Syncrun finished 2018-08-08T14:30:59 (last step: 36507 msec, total: 36507 msec)
+#=#=#=# Syncrun started 2018-08-08T14:31:49
+#=#=#=#=# Propagation starts 2018-08-08T14:31:49 (last step: 386 msec, total: 386 msec)
+||Prototype/Prototype-woolardmarketing.com-v0.2.1.xd|INST_NEW|Up|1533756639||9916674||3|Operation canceled|0|0|0|||INST_NONE|
+||Prototype/Prototype-woolardmarketing.com.xd|INST_SYNC|Up|1533756621|4700293adb08b6d001dca504217cf325|9916651|00000501ocmqmup3hfk7|3|Operation canceled|0|9456750|1533748084|4700293adb08b6d001dca504217cf325|00000501ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T14:32:35 (last step: 46573 msec, total: 46960 msec)
+#=#=#=# Syncrun started 2018-08-08T14:32:46
+#=#=#=#=# Propagation starts 2018-08-08T14:32:47 (last step: 438 msec, total: 438 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:32:47 (last step: 16 msec, total: 454 msec)
+#=#=#=# Syncrun started 2018-08-08T14:33:36
+#=#=#=#=# Propagation starts 2018-08-08T14:33:37 (last step: 498 msec, total: 498 msec)
+#=#=#=# Syncrun finished 2018-08-08T14:33:37 (last step: 17 msec, total: 516 msec)
+#=#=#=# Syncrun started 2018-08-08T15:08:21
+#=#=#=#=# Propagation starts 2018-08-08T15:08:26 (last step: 5093 msec, total: 5093 msec)
+20:08:26||Prototype/Prototype-woolardmarketing.com-v0.2.1.pdf|INST_NEW|Up|1533758899|82661d191c44e94dfb1d921d93346dde|3432985|00001293ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T15:08:35 (last step: 9336 msec, total: 14429 msec)
+#=#=#=# Syncrun started 2018-08-08T15:08:41
+#=#=#=#=# Propagation starts 2018-08-08T15:08:42 (last step: 411 msec, total: 411 msec)
+#=#=#=# Syncrun finished 2018-08-08T15:08:42 (last step: 13 msec, total: 425 msec)
+#=#=#=# Syncrun started 2018-08-08T15:09:32
+#=#=#=#=# Propagation starts 2018-08-08T15:09:32 (last step: 320 msec, total: 320 msec)
+#=#=#=# Syncrun finished 2018-08-08T15:09:32 (last step: 13 msec, total: 334 msec)
+#=#=#=# Syncrun started 2018-08-08T15:22:53
+#=#=#=#=# Propagation starts 2018-08-08T15:22:56 (last step: 3369 msec, total: 3369 msec)
+20:22:57||Prototype/Prototype-woolardmarketing.com-v0.2.1.xd|INST_SYNC|Up|1533759771|c103d5be35cf3bce67252dd8d5031db0|3010887|00001289ocmqmup3hfk7|4||204|9916674|1533756639|b816bbb473509e2d36e4326b0b23f5ea|00001289ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T15:23:16 (last step: 19575 msec, total: 22945 msec)
+#=#=#=# Syncrun started 2018-08-08T15:23:24
+#=#=#=#=# Propagation starts 2018-08-08T15:23:24 (last step: 575 msec, total: 575 msec)
+#=#=#=# Syncrun finished 2018-08-08T15:23:24 (last step: 12 msec, total: 587 msec)
+#=#=#=# Syncrun started 2018-08-08T15:24:02
+#=#=#=#=# Propagation starts 2018-08-08T15:24:02 (last step: 385 msec, total: 385 msec)
+#=#=#=# Syncrun finished 2018-08-08T15:24:02 (last step: 10 msec, total: 396 msec)
+#=#=#=# Syncrun started 2018-08-08T15:34:37
+#=#=#=#=# Propagation starts 2018-08-08T15:34:37 (last step: 266 msec, total: 266 msec)
+20:34:37||Prototype/Prototype-woolardmarketing.com-v0.2.1.xd|INST_SYNC|Up|1533760475|0f5eb4c40abf7b230f85ce3e6b621998|3010897|00001289ocmqmup3hfk7|4||204|3010887|1533759771|c103d5be35cf3bce67252dd8d5031db0|00001289ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T15:34:49 (last step: 12580 msec, total: 12847 msec)
+#=#=#=# Syncrun started 2018-08-08T15:34:55
+#=#=#=#=# Propagation starts 2018-08-08T15:34:58 (last step: 2968 msec, total: 2968 msec)
+#=#=#=# Syncrun finished 2018-08-08T15:34:58 (last step: 19 msec, total: 2988 msec)
+#=#=#=# Syncrun started 2018-08-08T15:35:32
+#=#=#=#=# Propagation starts 2018-08-08T15:35:32 (last step: 364 msec, total: 364 msec)
+#=#=#=# Syncrun finished 2018-08-08T15:35:32 (last step: 11 msec, total: 375 msec)
+#=#=#=# Syncrun started 2018-08-08T15:56:27
+#=#=#=#=# Propagation starts 2018-08-08T15:56:28 (last step: 394 msec, total: 394 msec)
+20:56:28||Prototype/startup-594090_1920.jpg|INST_NEW|Up|1533761544|06f89a78debd718c5ec0e2e033437d00|358965|00001298ocmqmup3hfk7|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T15:56:28 (last step: 779 msec, total: 1174 msec)
+#=#=#=# Syncrun started 2018-08-08T15:57:04
+#=#=#=#=# Propagation starts 2018-08-08T15:57:05 (last step: 510 msec, total: 510 msec)
+#=#=#=# Syncrun finished 2018-08-08T15:57:05 (last step: 12 msec, total: 523 msec)
+#=#=#=# Syncrun started 2018-08-08T15:59:16
+#=#=#=#=# Propagation starts 2018-08-08T15:59:19 (last step: 3525 msec, total: 3525 msec)
+20:59:19||Prototype/Prototype-woolardmarketing.com-v0.2.1.xd|INST_SYNC|Up|1533761954|99dc361b7b301cee9e57dca5002f811a|3370846|00001289ocmqmup3hfk7|4||204|3010897|1533760475|0f5eb4c40abf7b230f85ce3e6b621998|00001289ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T15:59:29 (last step: 9819 msec, total: 13345 msec)
+#=#=#=# Syncrun started 2018-08-08T16:00:05
+#=#=#=#=# Propagation starts 2018-08-08T16:00:06 (last step: 537 msec, total: 537 msec)
+#=#=#=# Syncrun finished 2018-08-08T16:00:06 (last step: 18 msec, total: 555 msec)
+#=#=#=# Syncrun started 2018-08-08T16:24:26
+#=#=#=#=# Propagation starts 2018-08-08T16:24:26 (last step: 651 msec, total: 651 msec)
+21:24:26||Prototype/Prototype-woolardmarketing.com-v0.2.1.xd|INST_SYNC|Up|1533763464|9edd3735b95cf77581f576cac6f57ab2|3473153|00001289ocmqmup3hfk7|4||204|3370846|1533761954|99dc361b7b301cee9e57dca5002f811a|00001289ocmqmup3hfk7|INST_NONE|
+#=#=#=# Syncrun finished 2018-08-08T16:24:40 (last step: 13306 msec, total: 13958 msec)
